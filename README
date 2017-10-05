@@ -1,0 +1,6 @@
+Alex Peterson & Michael Kemp
+
+Known issues:  
+
+- user can guess a word multiple times successfully.  The lab write up makes no mention of adding this logic.
+- squares for words is buggy.  it sometimes cuts off before finishing the path.
